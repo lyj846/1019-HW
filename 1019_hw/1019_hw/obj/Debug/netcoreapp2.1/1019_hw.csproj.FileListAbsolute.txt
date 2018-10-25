@@ -1,0 +1,11 @@
+C:\Users\lyj_nb\Desktop\1019 hw\1019_hw\1019_hw\bin\Debug\netcoreapp2.1\1019_hw.deps.json
+C:\Users\lyj_nb\Desktop\1019 hw\1019_hw\1019_hw\bin\Debug\netcoreapp2.1\1019_hw.runtimeconfig.json
+C:\Users\lyj_nb\Desktop\1019 hw\1019_hw\1019_hw\bin\Debug\netcoreapp2.1\1019_hw.runtimeconfig.dev.json
+C:\Users\lyj_nb\Desktop\1019 hw\1019_hw\1019_hw\bin\Debug\netcoreapp2.1\1019_hw.dll
+C:\Users\lyj_nb\Desktop\1019 hw\1019_hw\1019_hw\bin\Debug\netcoreapp2.1\1019_hw.pdb
+C:\Users\lyj_nb\Desktop\1019 hw\1019_hw\1019_hw\obj\Debug\netcoreapp2.1\1019_hw.csprojAssemblyReference.cache
+C:\Users\lyj_nb\Desktop\1019 hw\1019_hw\1019_hw\obj\Debug\netcoreapp2.1\1019_hw.csproj.CoreCompileInputs.cache
+C:\Users\lyj_nb\Desktop\1019 hw\1019_hw\1019_hw\obj\Debug\netcoreapp2.1\1019_hw.AssemblyInfoInputs.cache
+C:\Users\lyj_nb\Desktop\1019 hw\1019_hw\1019_hw\obj\Debug\netcoreapp2.1\1019_hw.AssemblyInfo.cs
+C:\Users\lyj_nb\Desktop\1019 hw\1019_hw\1019_hw\obj\Debug\netcoreapp2.1\1019_hw.dll
+C:\Users\lyj_nb\Desktop\1019 hw\1019_hw\1019_hw\obj\Debug\netcoreapp2.1\1019_hw.pdb
